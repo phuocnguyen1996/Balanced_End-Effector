@@ -2,7 +2,7 @@
 This is a the Prototyping Project of Nguyen and Mehmet. It is a small 3-DOF end-effector combined with a 9-axis IMU sensor, which can be attached on any types of robot arms to maintain any orientation while moving or working.
 
 ## Hardware
-The 3D model is inside the `3D_Printing_Model_Arm_V2` folder with all components. To create the algorithm, we modelled the end-effect as the DH parameters below:
+The 3D model is inside the `3D_Printing_Model_Arm_V2` folder with all components. To create the algorithm, we have the DH parameters from the base to the position of the IMU sensor as below:
 | |theta |d |lamda |L |
 |----------- |----------- | ----------- |-----------|-----------|
 |1 |q1 |L1 |pi/2|0|
