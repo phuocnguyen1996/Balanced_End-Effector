@@ -25,7 +25,7 @@ Wiring:
 - Sensor SDA ----- A4 
 
 ## Presentation and Video
-The video for demonstration is given here and also inside the presention. In the video, we tested the end-effector twice: First individually, then with the Kuka 6-DOF arm.
+The video for demonstration is given here and also inside the presention. In the video, we tested the end-effector twice: first individually, then with the Kuka 6-DOF arm.
 
 ## Disadvantages
 The orientation was indirectly computed through the rotational speeds. We did not use all the functions of IMU sensor. The orientation should be computed in a more useful way. The calculation of matrices was also a problem because of it required a long time for multiplying. Another method for computation, like quaternion, to reduce the time 
