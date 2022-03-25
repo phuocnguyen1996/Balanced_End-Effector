@@ -1,0 +1,1 @@
+DS3225MG_Servo: https://grabcad.com/library/dsservo-ds3225mg-metal-gear-25kg-4-8-6-5v-servo-1

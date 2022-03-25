@@ -1,0 +1,1 @@
+MPU_6050_IMU: https://grabcad.com/library/mpu-6050-imu-sensor-1
